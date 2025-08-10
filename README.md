@@ -1,1 +1,1 @@
-[Satcom documentation website](http://satcomradio.github.io)
+[Satcom documentation website](http://radio.github.io)
